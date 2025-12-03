@@ -1,4 +1,4 @@
-# Veränderungen der Fruchtbarkeitsraten in Europa
+# Veränderungen der Fruchtbarkeitsraten in verschiedenen Ländern
 
 Am Projekt arbeiten:
 - Melina Laganà (laganmel@students.zhaw.ch)
@@ -6,7 +6,7 @@ Am Projekt arbeiten:
 - Seraina Winzeler (winzeser@students.zhaw.ch)
 
 Fragestellungen:
-- Wie haben sich die Fruchtbarkeitsraten in Europa seit 1950 entwickelt und welche Länder zeigen einen besonders starke Rückgänge?
+- Wie haben sich die Fruchtbarkeitsraten in Europa seit 1950 entwickelt und welche Länder zeigen besonders starke Rückgänge?
 - Unterscheidet sich die Entwicklung der Fruchtbarkeitsraten zwischen Afrika und Asien seit 1970, und welcher der beiden Kontinenten zeigt stärkere Veränderungen?
 
 Quelle:
