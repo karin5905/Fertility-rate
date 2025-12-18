@@ -7,7 +7,7 @@ Am Projekt arbeiten:
 - Dimitrios Vagias (vagiadim@students.zhaw.ch)
 
 Fragestellungen:
-- Wie haben sich die Fruchtbarkeitsraten in Europa seit 1950 entwickelt und welche Länder zeigen besonders starke Rückgänge?
+- Wie haben sich die Fruchtbarkeitsraten auf den sechs Kontinenten (Europa, Nord- und Südamerika, Asien, Afrika, Australien) seit 1950 entwickelt?
 - Unterscheidet sich die Entwicklung der Fruchtbarkeitsraten zwischen Afrika und Asien seit 1970, und welcher der beiden Kontinenten zeigt stärkere Veränderungen?
 
 Quelle:
